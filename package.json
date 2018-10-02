@@ -1,0 +1,23 @@
+{
+  "name": "DinheiroOuMilhas",
+  "version": "1.0.0",
+  "description": "Aplicação para comparar custo de passagens aéreas",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RosalvoPetrechen/DinheiroOuMilhas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RosalvoPetrechen/DinheiroOuMilhas/issues"
+  },
+  "homepage": "https://RosalvoPetrechen.github.io/DinheiroOuMilhas",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}
